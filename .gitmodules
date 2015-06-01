@@ -1,0 +1,3 @@
+[submodule "ics-parser"]
+	path = ics-parser
+	url = git://github.com/MartinThoma/ics-parser.git
