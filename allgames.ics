@@ -1,0 +1,1309 @@
+BEGIN:VCALENDAR
+PRODID:-//MLB.com//Schedule Calendar 0.001//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Detroit Tigers
+X-WR-CALNAME:Detroit Tigers
+TZ:+00
+BEGIN:VEVENT
+DTSTART:20150302T180500Z
+DTEND:20150302T210500Z
+DTSTAMP:20150518T124743Z
+UID:429672@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Exhibition: Florida Southern College Mocs 2 - Detroit Tigers 12\nWinning Pitcher: Ryan, Kyle\nLosing Pitcher: Barnett, Austin\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_02_flsbbc_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150302T214217Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Exhibition: Florida Southern College Mocs 2 - Detroit Tigers 12
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150303T180500Z
+DTEND:20150303T210500Z
+DTSTAMP:20150518T124743Z
+UID:429673@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 2 - Detroit Tigers 15\nWinning Pitcher: Lobstein, Kyle\nLosing Pitcher: Jimenez, Ubaldo\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_03_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150401T182659Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Baltimore Orioles 2 - Detroit Tigers 15
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150305T180500Z
+DTEND:20150305T210500Z
+DTSTAMP:20150518T124743Z
+UID:429674@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Atlanta Braves 6 - Detroit Tigers 4\nWinning Pitcher: Hursh, Jason\nLosing Pitcher: Wilson, Alex\nSave Pitcher: Marimon, Sugar Ray\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_05_atlmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150316T152215Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Atlanta Braves 6 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150308T170500Z
+DTEND:20150308T200500Z
+DTSTAMP:20150518T124743Z
+UID:429675@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Houston Astros 14 - Detroit Tigers 9\nWinning Pitcher: Buchanan, Jake\nLosing Pitcher: Gorzelanny, Tom\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_08_houmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150316T161816Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Houston Astros 14 - Detroit Tigers 9
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150309T170500Z
+DTEND:20150309T200500Z
+DTSTAMP:20150518T124743Z
+UID:429676@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Toronto Blue Jays 4 - Detroit Tigers 6\nWinning Pitcher: Wilson, Alex\nLosing Pitcher: Rasmussen, Rob\nSave Pitcher: Valdez, Jose\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_09_tormlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150316T164315Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Toronto Blue Jays 4 - Detroit Tigers 6
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150312T170500Z
+DTEND:20150312T200500Z
+DTSTAMP:20150518T124743Z
+UID:429677@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Philadelphia Phillies 6 - Detroit Tigers 5\nWinning Pitcher: Buchanan, David\nLosing Pitcher: Nathan, Joe\nSave Pitcher: Garcia, Luis\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_12_phimlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150316T172615Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Philadelphia Phillies 6 - Detroit Tigers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150314T170500Z
+DTEND:20150314T200500Z
+DTSTAMP:20150518T124743Z
+UID:429678@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Philadelphia Phillies 5 - Detroit Tigers 4\nWinning Pitcher: Giles, Ken\nLosing Pitcher: Wilson, Alex\nSave Pitcher: Rosin, Seth\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_14_phimlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150316T175915Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Philadelphia Phillies 5 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150317T170500Z
+DTEND:20150317T200500Z
+DTSTAMP:20150518T124743Z
+UID:429679@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Washington Nationals 6 - Detroit Tigers 4\nWinning Pitcher: Strasburg, Stephen\nLosing Pitcher: Verlander, Justin\nSave Pitcher: Hill, Rich\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_17_wasmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150317T200734Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Washington Nationals 6 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150320T170500Z
+DTEND:20150320T200500Z
+DTSTAMP:20150518T124743Z
+UID:429680@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: New York Yankees 11 - Detroit Tigers 2\nWinning Pitcher: Warren, Adam\nLosing Pitcher: Simon, Alfredo\nSave Pitcher: Whitley, Chase\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_20_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150320T200944Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: New York Yankees 11 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150321T170500Z
+DTEND:20150321T200500Z
+DTSTAMP:20150518T124743Z
+UID:429681@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: New York Mets 4 - Detroit Tigers 6\nWinning Pitcher: Ryan, Kyle\nLosing Pitcher: Familia, Jeurys\nSave Pitcher: Krol, Ian\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_21_nynmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150401T201238Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: New York Mets 4 - Detroit Tigers 6
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150322T170500Z
+DTEND:20150322T200500Z
+DTSTAMP:20150518T124743Z
+UID:429682@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Washington Nationals 7 - Detroit Tigers 7\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_22_wasmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150323T010451Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Washington Nationals 7 - Detroit Tigers 7
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150325T170500Z
+DTEND:20150325T200500Z
+DTSTAMP:20150518T124743Z
+UID:429683@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Miami Marlins 4 - Detroit Tigers 8\nWinning Pitcher: Nathan, Joe\nLosing Pitcher: Dyson, Sam\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_25_miamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150402T132537Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Miami Marlins 4 - Detroit Tigers 8
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150326T170500Z
+DTEND:20150326T200500Z
+DTSTAMP:20150518T124743Z
+UID:429684@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 4 - Detroit Tigers 6\nWinning Pitcher: Nathan, Joe\nLosing Pitcher: Gausman, Kevin\nSave Pitcher: Soria, Joakim\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_26_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150327T182331Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Baltimore Orioles 4 - Detroit Tigers 6
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150328T170500Z
+DTEND:20150328T200500Z
+DTSTAMP:20150518T124743Z
+UID:429685@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: St. Louis Cardinals 3 - Detroit Tigers 4\nWinning Pitcher: Krol, Ian\nLosing Pitcher: Villanueva, Carlos\nSave Pitcher: Voelker, Paul\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_28_slnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150328T202412Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: St. Louis Cardinals 3 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150330T170500Z
+DTEND:20150330T200500Z
+DTSTAMP:20150518T124743Z
+UID:429686@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Atlanta Braves 4 - Detroit Tigers 2\nWinning Pitcher: Stults, Eric\nLosing Pitcher: Chamberlain, Joba\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_30_atlmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150330T195457Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Atlanta Braves 4 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150331T170500Z
+DTEND:20150331T200500Z
+DTSTAMP:20150518T124743Z
+UID:429687@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Pittsburgh Pirates 7 - Detroit Tigers 3\nWinning Pitcher: Worley, Vance\nLosing Pitcher: Price, David\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_03_31_pitmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150331T203149Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Pittsburgh Pirates 7 - Detroit Tigers 3
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150402T170500Z
+DTEND:20150402T200500Z
+DTSTAMP:20150518T124743Z
+UID:429688@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: New York Yankees 2 - Detroit Tigers 3\nWinning Pitcher: Chamberlain, Joba\nLosing Pitcher: Mitchell, Bryan\nSave Pitcher: Dolis, Rafael\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_02_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150403T182051Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: New York Yankees 2 - Detroit Tigers 3
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150403T170500Z
+DTEND:20150403T200500Z
+DTSTAMP:20150518T124743Z
+UID:429689@mlb.com
+CREATED:20141121T151349Z
+DESCRIPTION:FINAL Spring: Tampa Bay Rays 11 - Detroit Tigers 5\nWinning Pitcher: Beliveau, Jeff\nLosing Pitcher: Alburquerque, Al\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_03_tbamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150403T202602Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Tampa Bay Rays 11 - Detroit Tigers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150406T170800Z
+DTEND:20150406T200800Z
+DTSTAMP:20150518T124743Z
+UID:413656@mlb.com
+CREATED:20140904T174609Z
+DESCRIPTION:FINAL: Minnesota Twins 0 - Detroit Tigers 4\nWinning Pitcher: Price, David\nLosing Pitcher: Hughes, Phil\nSave Pitcher: Nathan, Joe\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_06_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150407T141837Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 0 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150408T170800Z
+DTEND:20150408T200800Z
+DTSTAMP:20150518T124743Z
+UID:413678@mlb.com
+CREATED:20140904T174609Z
+DESCRIPTION:FINAL: Minnesota Twins 0 - Detroit Tigers 11\nWinning Pitcher: Sanchez, Anibal\nLosing Pitcher: Nolasco, Ricky\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_08_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150409T200035Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 0 - Detroit Tigers 11
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150409T170800Z
+DTEND:20150409T200800Z
+DTSTAMP:20150518T124743Z
+UID:413689@mlb.com
+CREATED:20140904T174609Z
+DESCRIPTION:FINAL: Minnesota Twins 1 - Detroit Tigers 7\nWinning Pitcher: Greene, Shane\nLosing Pitcher: Gibson, Kyle\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_09_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150410T042305Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 1 - Detroit Tigers 7
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150417T170800Z
+DTEND:20150417T200800Z
+DTSTAMP:20150518T124743Z
+UID:413793@mlb.com
+CREATED:20140904T174610Z
+DESCRIPTION:FINAL: Chicago White Sox 1 - Detroit Tigers 2\nWinning Pitcher: Soria, Joakim\nLosing Pitcher: Duke, Zach\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_17_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150418T094327Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Chicago White Sox 1 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150418T170800Z
+DTEND:20150418T200800Z
+DTSTAMP:20150518T124743Z
+UID:413808@mlb.com
+CREATED:20140904T174611Z
+DESCRIPTION:FINAL: Chicago White Sox 12 - Detroit Tigers 3\nWinning Pitcher: Sale, Chris\nLosing Pitcher: Sanchez, Anibal\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_18_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150419T045258Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Chicago White Sox 12 - Detroit Tigers 3
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150419T170800Z
+DTEND:20150419T200800Z
+DTSTAMP:20150518T124743Z
+UID:413823@mlb.com
+CREATED:20140904T174611Z
+DESCRIPTION:FINAL: Chicago White Sox 1 - Detroit Tigers 9\nWinning Pitcher: Greene, Shane\nLosing Pitcher: Quintana, Jose\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_19_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150419T214303Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Chicago White Sox 1 - Detroit Tigers 9
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150420T230800Z
+DTEND:20150421T020800Z
+DTSTAMP:20150518T124743Z
+UID:413840@mlb.com
+CREATED:20140904T174611Z
+DESCRIPTION:FINAL: New York Yankees 1 - Detroit Tigers 2\nWinning Pitcher: Simon, Alfredo\nLosing Pitcher: Sabathia, CC\nSave Pitcher: Soria, Joakim\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_20_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150421T155837Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: New York Yankees 1 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150421T230800Z
+DTEND:20150422T020800Z
+DTSTAMP:20150518T124743Z
+UID:413853@mlb.com
+CREATED:20140904T174611Z
+DESCRIPTION:FINAL: New York Yankees 5 - Detroit Tigers 2\nWinning Pitcher: Eovaldi, Nathan\nLosing Pitcher: Lobstein, Kyle\nSave Pitcher: Miller, Andrew\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_21_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150425T160740Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: New York Yankees 5 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150422T230800Z
+DTEND:20150423T020800Z
+DTSTAMP:20150518T124743Z
+UID:413868@mlb.com
+CREATED:20140904T174611Z
+DESCRIPTION:FINAL: New York Yankees 13 - Detroit Tigers 4\nWinning Pitcher: Warren, Adam\nLosing Pitcher: Price, David\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_22_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150423T122858Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: New York Yankees 13 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150423T170800Z
+DTEND:20150423T200800Z
+DTSTAMP:20150518T124743Z
+UID:413881@mlb.com
+CREATED:20140904T174612Z
+DESCRIPTION:FINAL: New York Yankees 2 - Detroit Tigers 1\nWinning Pitcher: Betances, Dellin\nLosing Pitcher: Gorzelanny, Tom\nSave Pitcher: Miller, Andrew\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_23_nyamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150424T073850Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: New York Yankees 2 - Detroit Tigers 1
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150424T230800Z
+DTEND:20150425T020800Z
+DTSTAMP:20150518T124743Z
+UID:413888@mlb.com
+CREATED:20140904T174612Z
+DESCRIPTION:FINAL: Cleveland Indians 13 - Detroit Tigers 1\nWinning Pitcher: Salazar, Danny\nLosing Pitcher: Greene, Shane\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_24_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150429T202056Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Cleveland Indians 13 - Detroit Tigers 1
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150425T170800Z
+DTEND:20150425T200800Z
+DTSTAMP:20150518T124743Z
+UID:413903@mlb.com
+CREATED:20140904T174612Z
+DESCRIPTION:FINAL: Cleveland Indians 1 - Detroit Tigers 4\nWinning Pitcher: Simon, Alfredo\nLosing Pitcher: House, TJ\nSave Pitcher: Soria, Joakim\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_25_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150426T102420Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Cleveland Indians 1 - Detroit Tigers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150426T170800Z
+DTEND:20150426T200800Z
+DTSTAMP:20150518T124743Z
+UID:413918@mlb.com
+CREATED:20140904T174612Z
+DESCRIPTION:FINAL: Cleveland Indians 6 - Detroit Tigers 8\nWinning Pitcher: Lobstein, Kyle\nLosing Pitcher: Carrasco, Carlos\nSave Pitcher: Soria, Joakim\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_04_26_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150427T160651Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Cleveland Indians 6 - Detroit Tigers 8
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150508T230800Z
+DTEND:20150509T020800Z
+DTSTAMP:20150518T124743Z
+UID:414085@mlb.com
+CREATED:20140904T174614Z
+DESCRIPTION:FINAL: Kansas City Royals 5 - Detroit Tigers 6\nWinning Pitcher: Soria, Joakim\nLosing Pitcher: Pino, Yohan\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_08_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150509T055847Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Kansas City Royals 5 - Detroit Tigers 6
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150509T170800Z
+DTEND:20150509T200800Z
+DTSTAMP:20150518T124743Z
+UID:414100@mlb.com
+CREATED:20140904T174614Z
+DESCRIPTION:FINAL: Kansas City Royals 6 - Detroit Tigers 2\nWinning Pitcher: Guthrie, Jeremy\nLosing Pitcher: Sanchez, Anibal\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_09_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150510T101307Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Kansas City Royals 6 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150511T000500Z
+DTEND:20150511T030500Z
+DTSTAMP:20150518T124743Z
+UID:414115@mlb.com
+CREATED:20140904T174614Z
+DESCRIPTION:FINAL: Kansas City Royals 2 - Detroit Tigers 1\nWinning Pitcher: Frasor, Jason\nLosing Pitcher: Nesbitt, Angel\nSave Pitcher: Holland, Greg\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_10_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150511T063903Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Kansas City Royals 2 - Detroit Tigers 1
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150512T230800Z
+DTEND:20150513T020800Z
+DTSTAMP:20150518T124743Z
+UID:414140@mlb.com
+CREATED:20140904T174614Z
+DESCRIPTION:FINAL: Minnesota Twins 1 - Detroit Tigers 2\nWinning Pitcher: Nesbitt, Angel\nLosing Pitcher: Pressly, Ryan\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_12_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150513T051353Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 1 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150513T230800Z
+DTEND:20150514T020800Z
+DTSTAMP:20150518T124743Z
+UID:414155@mlb.com
+CREATED:20140904T174615Z
+DESCRIPTION:FINAL: Minnesota Twins 6 - Detroit Tigers 2\nWinning Pitcher: Nolasco, Ricky\nLosing Pitcher: Lobstein, Kyle\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_13_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150514T052557Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 6 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150514T170800Z
+DTEND:20150514T200800Z
+DTSTAMP:20150518T124743Z
+UID:414167@mlb.com
+CREATED:20140904T174615Z
+DESCRIPTION:FINAL: Minnesota Twins 1 - Detroit Tigers 13\nWinning Pitcher: Sanchez, Anibal\nLosing Pitcher: Pelfrey, Mike\nComerica Park, Detroit\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=det&affiliateId=iCal-SGT-det\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_14_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150515T161356Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:FINAL: Minnesota Twins 1 - Detroit Tigers 13
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150518T230800Z
+DTEND:20150519T020800Z
+DTSTAMP:20150518T124743Z
+UID:414223@mlb.com
+CREATED:20140904T174615Z
+DESCRIPTION:Milwaukee Brewers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nProbable Starters:\nMIL: Fiers, Mike\nDET: Lobstein, Kyle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414223&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_18_milmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150517T030647Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Milwaukee Brewers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150519T230800Z
+DTEND:20150520T020800Z
+DTSTAMP:20150518T124743Z
+UID:414233@mlb.com
+CREATED:20140904T174615Z
+DESCRIPTION:Milwaukee Brewers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nProbable Starters:\nMIL: Nelson, Jimmy\nDET: Sanchez, Anibal\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414233&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_19_milmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150517T030647Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Milwaukee Brewers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150520T230800Z
+DTEND:20150521T020800Z
+DTSTAMP:20150518T124743Z
+UID:414248@mlb.com
+CREATED:20140904T174616Z
+DESCRIPTION:Milwaukee Brewers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nProbable Starters:\nMIL: Lohse, Kyle\nDET: Greene, Shane\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414248&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_20_milmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150517T030647Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Milwaukee Brewers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150521T170800Z
+DTEND:20150521T200800Z
+DTSTAMP:20150518T124743Z
+UID:414261@mlb.com
+CREATED:20140904T174616Z
+DESCRIPTION:Houston Astros vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414261&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Space Day (Class Outside Series)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_21_houmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150518T005334Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Houston Astros vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150522T230800Z
+DTEND:20150523T020800Z
+DTSTAMP:20150518T124743Z
+UID:414273@mlb.com
+CREATED:20140904T174616Z
+DESCRIPTION:Houston Astros vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414273&affiliateId=iCal-SGT-det\n\nAdditional Information:\n45th Annual Polish-American Night\nFireworks Nights\nSPECIAL TICKET PACKAGE: Polish American Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_22_houmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160200Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Houston Astros vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150523T200800Z
+DTEND:20150523T230800Z
+DTSTAMP:20150518T124743Z
+UID:414288@mlb.com
+CREATED:20140904T174616Z
+DESCRIPTION:Houston Astros vs. Detroit Tigers\nFirst pitch: 4:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414288&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_23_houmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160206Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Houston Astros vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150524T170800Z
+DTEND:20150524T200800Z
+DTSTAMP:20150518T124743Z
+UID:414303@mlb.com
+CREATED:20140904T174616Z
+DESCRIPTION:Houston Astros vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414303&affiliateId=iCal-SGT-det\n\nAdditional Information:\nShane Greene Poster\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_05_24_houmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160211Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Houston Astros vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150602T230800Z
+DTEND:20150603T020800Z
+DTSTAMP:20150518T124743Z
+UID:414432@mlb.com
+CREATED:20140904T174617Z
+DESCRIPTION:Oakland Athletics vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414432&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_02_oakmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160258Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Oakland Athletics vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150603T230800Z
+DTEND:20150604T020800Z
+DTSTAMP:20150518T124743Z
+UID:414447@mlb.com
+CREATED:20140904T174617Z
+DESCRIPTION:Oakland Athletics vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414447&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Runners Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_03_oakmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160303Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Oakland Athletics vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150604T170800Z
+DTEND:20150604T200800Z
+DTSTAMP:20150518T124743Z
+UID:414458@mlb.com
+CREATED:20140904T174618Z
+DESCRIPTION:Oakland Athletics vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414458&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Journalism Day (Class Outside Series)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_04_oakmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160308Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Oakland Athletics vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150609T230800Z
+DTEND:20150610T020800Z
+DTSTAMP:20150518T124743Z
+UID:414517@mlb.com
+CREATED:20140904T174618Z
+DESCRIPTION:Chicago Cubs vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414517&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: 1945 World Series Champion Replica Jersey (Championship Jersey Series)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_09_chnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160329Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago Cubs vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150610T230800Z
+DTEND:20150611T020800Z
+DTSTAMP:20150518T124743Z
+UID:414532@mlb.com
+CREATED:20140904T174618Z
+DESCRIPTION:Chicago Cubs vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414532&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: 1945 World Series Champion Replica Jersey (Championship Jersey Series)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_10_chnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160335Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago Cubs vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150612T230800Z
+DTEND:20150613T020800Z
+DTSTAMP:20150518T124743Z
+UID:414557@mlb.com
+CREATED:20140904T174619Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414557&affiliateId=iCal-SGT-det\n\nAdditional Information:\nTigers Hat\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_12_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160344Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150613T200800Z
+DTEND:20150613T230800Z
+DTSTAMP:20150518T124743Z
+UID:414572@mlb.com
+CREATED:20140904T174619Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 4:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414572&affiliateId=iCal-SGT-det\n\nAdditional Information:\n5th Annual Detroit Tigers Classic Car Show\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_13_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160349Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150614T170800Z
+DTEND:20150614T200800Z
+DTSTAMP:20150518T124743Z
+UID:414587@mlb.com
+CREATED:20140904T174619Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414587&affiliateId=iCal-SGT-det\n\nAdditional Information:\nJ.D. Martinez Poster\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_14_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160354Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150615T230800Z
+DTEND:20150616T020800Z
+DTSTAMP:20150518T124743Z
+UID:414601@mlb.com
+CREATED:20140904T174619Z
+DESCRIPTION:Cincinnati Reds vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414601&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Teacher Appreciation\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_15_cinmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160359Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cincinnati Reds vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150616T230800Z
+DTEND:20150617T020800Z
+DTSTAMP:20150518T124743Z
+UID:414616@mlb.com
+CREATED:20140904T174619Z
+DESCRIPTION:Cincinnati Reds vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414616&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Children's Health Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_16_cinmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160405Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cincinnati Reds vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150625T170800Z
+DTEND:20150625T200800Z
+DTSTAMP:20150518T124743Z
+UID:414743@mlb.com
+CREATED:20140904T174621Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414743&affiliateId=iCal-SGT-det\n\nAdditional Information:\nVictor Martinez Bobblehead\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_25_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150626T230800Z
+DTEND:20150627T020800Z
+DTSTAMP:20150518T124743Z
+UID:414754@mlb.com
+CREATED:20140904T174621Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414754&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\nSPECIAL TICKET PACKAGE: Central Michigan University (University Days)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_26_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150627T200800Z
+DTEND:20150627T230800Z
+DTSTAMP:20150518T124743Z
+UID:414769@mlb.com
+CREATED:20140904T174621Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 4:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414769&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_27_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150628T170800Z
+DTEND:20150628T200800Z
+DTSTAMP:20150518T124743Z
+UID:414784@mlb.com
+CREATED:20140904T174621Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414784&affiliateId=iCal-SGT-det\n\nAdditional Information:\nIce Cream Bowl\nSPECIAL TICKET PACKAGE: Girl Scouts\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_28_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150630T230800Z
+DTEND:20150701T020800Z
+DTSTAMP:20150518T124743Z
+UID:414815@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Pittsburgh Pirates vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414815&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_06_30_pitmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160519Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Pittsburgh Pirates vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150701T230800Z
+DTEND:20150702T020800Z
+DTSTAMP:20150518T124743Z
+UID:414830@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Pittsburgh Pirates vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414830&affiliateId=iCal-SGT-det\n\nAdditional Information:\nYoenis Cespedes Bobblehead\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_01_pitmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160525Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Pittsburgh Pirates vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150702T170800Z
+DTEND:20150702T200800Z
+DTSTAMP:20150518T124743Z
+UID:414841@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Pittsburgh Pirates vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414841&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_02_pitmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160529Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Pittsburgh Pirates vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150703T230800Z
+DTEND:20150704T020800Z
+DTSTAMP:20150518T124743Z
+UID:414861@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Toronto Blue Jays vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414861&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_03_tormlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160537Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Toronto Blue Jays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150704T170800Z
+DTEND:20150704T200800Z
+DTSTAMP:20150518T124743Z
+UID:414876@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Toronto Blue Jays vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414876&affiliateId=iCal-SGT-det\n\nAdditional Information:\nIndependence Day\nPatriotic Tigers Hat\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_04_tormlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160542Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Toronto Blue Jays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150705T170800Z
+DTEND:20150705T200800Z
+DTSTAMP:20150518T124743Z
+UID:414891@mlb.com
+CREATED:20140904T174622Z
+DESCRIPTION:Toronto Blue Jays vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414891&affiliateId=iCal-SGT-det\n\nAdditional Information:\nOn-Field Photo Day\nPlayer Poster\nSPECIAL TICKET PACKAGE: Stars & Stripes\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_05_tormlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160548Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Toronto Blue Jays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150714
+DTEND;VALUE=DATE:20150715
+DTSTAMP:20150518T124743Z
+UID:414988@mlb.com
+CREATED:20140904T174623Z
+DESCRIPTION:American League All-Stars vs. National League All-Stars - Time TBD\nFirst pitch: TBD EDT\nGreat American Ball Park, Cincinnati\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_14_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20140908T192302Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:American League All-Stars vs. National League All-Stars - Time TBD
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150717T230800Z
+DTEND:20150718T020800Z
+DTSTAMP:20150518T124743Z
+UID:414989@mlb.com
+CREATED:20140904T174623Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=414989&affiliateId=iCal-SGT-det\n\nAdditional Information:\nCountry Night\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_17_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185544Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150718T230800Z
+DTEND:20150719T020800Z
+DTSTAMP:20150518T124743Z
+UID:415004@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415004&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_18_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185544Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150719T170800Z
+DTEND:20150719T200800Z
+DTSTAMP:20150518T124743Z
+UID:415019@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415019&affiliateId=iCal-SGT-det\n\nAdditional Information:\nPAWS Coin Bank\nSPECIAL TICKET PACKAGE: Scout Day\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_19_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185544Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150720T230800Z
+DTEND:20150721T020800Z
+DTSTAMP:20150518T124743Z
+UID:415040@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Seattle Mariners vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415040&affiliateId=iCal-SGT-det\n\nAdditional Information:\nDavid Price Bobblehead\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_20_seamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160644Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Seattle Mariners vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150721T230800Z
+DTEND:20150722T020800Z
+DTSTAMP:20150518T124743Z
+UID:415053@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Seattle Mariners vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415053&affiliateId=iCal-SGT-det\n\nAdditional Information:\nChristmas In July\nSPECIAL TICKET PACKAGE: Christmas in July\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_21_seamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160649Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Seattle Mariners vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150722T230800Z
+DTEND:20150723T020800Z
+DTSTAMP:20150518T124743Z
+UID:415068@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Seattle Mariners vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415068&affiliateId=iCal-SGT-det\n\nAdditional Information:\nRally Time Floppy Hat\nSPECIAL TICKET PACKAGE: Eastern Michigan University (University Days)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_22_seamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160655Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Seattle Mariners vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150723T170800Z
+DTEND:20150723T200800Z
+DTSTAMP:20150518T124743Z
+UID:415081@mlb.com
+CREATED:20140904T174624Z
+DESCRIPTION:Seattle Mariners vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415081&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_07_23_seamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160700Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Seattle Mariners vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150804T230800Z
+DTEND:20150805T020800Z
+DTSTAMP:20150518T124743Z
+UID:415243@mlb.com
+CREATED:20140904T174626Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415243&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_04_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160804Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150805T230800Z
+DTEND:20150806T020800Z
+DTSTAMP:20150518T124743Z
+UID:415258@mlb.com
+CREATED:20140904T174626Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415258&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_05_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160810Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150806T170800Z
+DTEND:20150806T200800Z
+DTSTAMP:20150518T124743Z
+UID:415270@mlb.com
+CREATED:20140904T174626Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415270&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_06_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160815Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150807T230800Z
+DTEND:20150808T020800Z
+DTSTAMP:20150518T124743Z
+UID:415278@mlb.com
+CREATED:20140904T174626Z
+DESCRIPTION:Boston Red Sox vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415278&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_07_bosmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160819Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Boston Red Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150808T230800Z
+DTEND:20150809T020800Z
+DTSTAMP:20150518T124743Z
+UID:415293@mlb.com
+CREATED:20140904T174626Z
+DESCRIPTION:Boston Red Sox vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415293&affiliateId=iCal-SGT-det\n\nAdditional Information:\n10th Annual ¡Fiesta Tigres!\nTigres Hat\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_08_bosmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160825Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Boston Red Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150809T170800Z
+DTEND:20150809T200800Z
+DTSTAMP:20150518T124743Z
+UID:415308@mlb.com
+CREATED:20140904T174627Z
+DESCRIPTION:Boston Red Sox vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415308&affiliateId=iCal-SGT-det\n\nAdditional Information:\nJose Iglesias Poster\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_09_bosmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160831Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Boston Red Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150820T230800Z
+DTEND:20150821T020800Z
+DTSTAMP:20150518T124743Z
+UID:415462@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Texas Rangers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415462&affiliateId=iCal-SGT-det\n\nAdditional Information:\nAll-Star Poster\nSPECIAL TICKET PACKAGE: Canadian Tigers Fan Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_20_texmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160934Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Texas Rangers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150821T230800Z
+DTEND:20150822T020800Z
+DTSTAMP:20150518T124743Z
+UID:415477@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Texas Rangers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415477&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\nSPECIAL TICKET PACKAGE: Michigan State University (University Days)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_21_texmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160940Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Texas Rangers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150822T230800Z
+DTEND:20150823T020800Z
+DTSTAMP:20150518T124743Z
+UID:415492@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Texas Rangers vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415492&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\nSPECIAL TICKET PACKAGE: Yooper Night\n\nLocal TV: FS1\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_22_texmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160946Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Texas Rangers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150823T170800Z
+DTEND:20150823T200800Z
+DTSTAMP:20150518T124743Z
+UID:415507@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Texas Rangers vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415507&affiliateId=iCal-SGT-det\n\nAdditional Information:\nStrike Out Bullying Dog Tags\nStrike Out Bullying Rally\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_23_texmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160952Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Texas Rangers vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150825T230800Z
+DTEND:20150826T020800Z
+DTSTAMP:20150518T124743Z
+UID:415517@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Los Angeles Angels vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415517&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_25_anamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T160956Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Los Angeles Angels vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150826T230800Z
+DTEND:20150827T020800Z
+DTSTAMP:20150518T124743Z
+UID:415532@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Los Angeles Angels vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415532&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Bike Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_26_anamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161002Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Los Angeles Angels vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150827T170800Z
+DTEND:20150827T200800Z
+DTSTAMP:20150518T124743Z
+UID:415547@mlb.com
+CREATED:20140904T174628Z
+DESCRIPTION:Los Angeles Angels vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415547&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_08_27_anamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161009Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Los Angeles Angels vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150904T230800Z
+DTEND:20150905T020800Z
+DTSTAMP:20150518T124743Z
+UID:415655@mlb.com
+CREATED:20140904T174629Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415655&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\nSPECIAL TICKET PACKAGE: Oakland University (University Days)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_04_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161054Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150905T230800Z
+DTEND:20150906T020800Z
+DTSTAMP:20150518T124743Z
+UID:415670@mlb.com
+CREATED:20140904T174630Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415670&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_05_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161100Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150906T170800Z
+DTEND:20150906T200800Z
+DTSTAMP:20150518T124743Z
+UID:415685@mlb.com
+CREATED:20140904T174630Z
+DESCRIPTION:Cleveland Indians vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415685&affiliateId=iCal-SGT-det\n\nAdditional Information:\nBack to School BPA-Free Water Bottle\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_06_clemlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161106Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Cleveland Indians vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150907T170800Z
+DTEND:20150907T200800Z
+DTSTAMP:20150518T124743Z
+UID:415708@mlb.com
+CREATED:20140904T174630Z
+DESCRIPTION:Tampa Bay Rays vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415708&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSpecial Kids Day: "Grandparents Day"\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_07_tbamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161116Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Tampa Bay Rays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150908T230800Z
+DTEND:20150909T020800Z
+DTSTAMP:20150518T124743Z
+UID:415723@mlb.com
+CREATED:20140904T174630Z
+DESCRIPTION:Tampa Bay Rays vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415723&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Wayne State University (University Days)\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_08_tbamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161122Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Tampa Bay Rays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150909T230800Z
+DTEND:20150910T020800Z
+DTSTAMP:20150518T124743Z
+UID:415738@mlb.com
+CREATED:20140904T174630Z
+DESCRIPTION:Tampa Bay Rays vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415738&affiliateId=iCal-SGT-det\n\nAdditional Information:\nSPECIAL TICKET PACKAGE: Italian Heritage Night\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_09_tbamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161129Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Tampa Bay Rays vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150918T230800Z
+DTEND:20150919T020800Z
+DTSTAMP:20150518T124743Z
+UID:415850@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415850&affiliateId=iCal-SGT-det\n\nAdditional Information:\n"Pink Out the Park"\nPink Out The Park Infinity Scarf\nFireworks Nights\nSPECIAL TICKET PACKAGE: Pink Out The Park\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_18_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161216Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150919T230800Z
+DTEND:20150920T020800Z
+DTSTAMP:20150518T124743Z
+UID:415865@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415865&affiliateId=iCal-SGT-det\n\nAdditional Information:\nStar Wars Night\nStar Wars Night Poster\nFireworks Nights\n\nLocal TV: FS1\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_19_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161222Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150920T170800Z
+DTEND:20150920T200800Z
+DTSTAMP:20150518T124743Z
+UID:415880@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Kansas City Royals vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415880&affiliateId=iCal-SGT-det\n\nAdditional Information:\nBack to School PAWS Lunch Cooler\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_20_kcamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161229Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Kansas City Royals vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150921T230800Z
+DTEND:20150922T020800Z
+DTSTAMP:20150518T124743Z
+UID:415893@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415893&affiliateId=iCal-SGT-det\n\nAdditional Information:\nMiguel Cabrera 400th Homerun Figurine\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_21_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150922T230800Z
+DTEND:20150923T020800Z
+DTSTAMP:20150518T124743Z
+UID:415903@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415903&affiliateId=iCal-SGT-det\n\nAdditional Information:\nHalfway to St Patrick's Day Green Hat\nIrish Heritage Night / Halfway to St Patrick's Day\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_22_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150923T170800Z
+DTEND:20150923T200800Z
+DTSTAMP:20150518T124743Z
+UID:415918@mlb.com
+CREATED:20140904T174631Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415918&affiliateId=iCal-SGT-det\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_23_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150428T185543Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150925T230800Z
+DTEND:20150926T020800Z
+DTSTAMP:20150518T124743Z
+UID:415947@mlb.com
+CREATED:20140904T174632Z
+DESCRIPTION:Minnesota Twins vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415947&affiliateId=iCal-SGT-det\n\nAdditional Information:\nFan Appreciation Weekend\nFireworks Nights\nSPECIAL TICKET PACKAGE: Wolverines in the D\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_25_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161257Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Minnesota Twins vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150926T230800Z
+DTEND:20150927T020800Z
+DTSTAMP:20150518T124743Z
+UID:415962@mlb.com
+CREATED:20140904T174632Z
+DESCRIPTION:Minnesota Twins vs. Detroit Tigers\nFirst pitch: 7:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415962&affiliateId=iCal-SGT-det\n\nAdditional Information:\n2016 Magnet Schedule\nFan Appreciation Weekend\nFireworks Nights\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_26_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161303Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Minnesota Twins vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150927T170800Z
+DTEND:20150927T200800Z
+DTSTAMP:20150518T124743Z
+UID:415977@mlb.com
+CREATED:20140904T174632Z
+DESCRIPTION:Minnesota Twins vs. Detroit Tigers\nFirst pitch: 1:08:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=415977&affiliateId=iCal-SGT-det\n\nAdditional Information:\nAnibal Sanchez Bobblehead\nFan Appreciation Weekend\nShirt Off Our Back Giveaway\n\nLocal TV: FS-D\nLocal Radio: 97.1 The Ticket\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2015_09_27_minmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20150326T161310Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Minnesota Twins vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1431953263
+END:VEVENT
+END:VCALENDAR
