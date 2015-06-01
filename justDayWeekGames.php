@@ -1,8 +1,15 @@
 <?php
 
 require 'ics-parser/class.iCalReader.php';
+
+ob_start();
+
+
 date_default_timezone_set('America/New_York');
+$allgames = file_get_contents("http://mlb.am/tix/tigers_schedule_home");
+file_put_contents('allgames.ics', $allgames);
 $ical = new ICal('allgames.ics');
+
 $events = $ical->events();
 
 echoHeader();
@@ -20,6 +27,11 @@ foreach ($events as $event) {
         }
     }
 }
+
+unlink ('allgames.ics');
+$newCal = ob_get_contents();
+file_put_contents("daygames.ics", $newCal);
+ob_end_clean();
 
 function echoFooter()
 {
